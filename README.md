@@ -1,6 +1,6 @@
 # SbuSeasons ❄︎
 
-> **Questo è il primo prototipo, fermo al 15/11/2026.** Sbu Seasons oggi vive in [sbudotdev/apps](https://github.com/sbudotdev/apps/tree/main/Apps/SbuSeasons) e si scarica da [sbu.dev/seasons](https://sbu.dev/seasons): le release firmate restano nelle [Releases](https://github.com/sbudotdev/SbuSeasons/releases) di questa repo.
+> **Questo è il primo prototipo, fermo al 15/11/2026.** Sbu Seasons oggi vive in [sbudotdev/apps](https://github.com/sbudotdev/apps/tree/main/Apps/SbuSeasons) e si scarica da [sbu.dev/seasons](https://sbu.dev/seasons): le release firmate restano nelle [Releases](https://github.com/sbudotdev/seasons/releases) di questa repo.
 
 Neve che cade sopra tutte le finestre del Mac, **si accumula sul bordo superiore delle finestre**
 e sul fondo dello schermo, e col cursore la sposti e la sparpagli.
